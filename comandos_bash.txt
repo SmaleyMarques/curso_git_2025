@@ -1,0 +1,3 @@
+ls => lista arquivos e pastas no diretório
+cd =>   altera diretório conforme informado
+pwd => printa diretório absoluto
