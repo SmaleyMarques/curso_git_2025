@@ -1,3 +1,5 @@
 ls => lista arquivos e pastas no diretório
 cd =>   altera diretório conforme informado
 pwd => printa diretório absoluto
+cat => exibe conteúdo do arquivo 
+rm => remove arquivo sem solicitar confirmação
