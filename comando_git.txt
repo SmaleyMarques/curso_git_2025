@@ -2,4 +2,5 @@ git init => cria um repositório na pasta atual
 git status => informa status do versionamento
 git add => adiciona o arquivo para versionamento
 git commit -m => salva versionamento
+git log => printa todos os salvamentos
 
