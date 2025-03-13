@@ -1,0 +1,21 @@
+## **Comandos Git**  
+
+- `git --help` → Acessa a documentação do Git.  
+- `git "comando" --help` → Exibe a documentação de um comando específico.  
+- `git init` → Cria um repositório Git na pasta atual.  
+- `git status` → Exibe o status do versionamento.  
+- `git add "diretório/arquivo"` → Adiciona arquivos ao stage (pré-salvamento).  
+- `git reset "diretório/arquivo"` → Remove arquivos do stage.  
+- `git commit -m "descrição do commit"` → Realiza um commit com uma descrição.  
+- `git config --global user.name "nome"` → Configura o nome do usuário global.  
+- `git config --global user.email "email"` → Configura o e-mail do usuário global.  
+- `git config --global user.name` → Exibe o nome do usuário global.  
+- `git config --global user.email` → Exibe o e-mail do usuário global.  
+- `git log` → Lista todos os commits realizados.  
+- `git diff "arquivo"` → Exibe as modificações no arquivo desde o último commit.  
+- `git checkout "id_commit"` → Retorna a um commit específico.  
+- `git checkout -b "branch"` → Cria uma nova branch.  
+- `git checkout "branch"` → Alterna para uma branch específica.  
+- `git branch` → Lista todas as branches do repositório.  
+- `git merge "branch"` → Mescla uma branch à atual.  
+- `git branch -d "branch"` → Exclui uma branch. 
